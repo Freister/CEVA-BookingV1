@@ -1,1 +1,7 @@
-
+{
+"create":{
+  "electronicCustomerReference": "ABCDEF-1234R5",
+  "bookingReference": "ABC0866035",
+  "technicalControlNumber": "BKI0351543"
+}
+}
