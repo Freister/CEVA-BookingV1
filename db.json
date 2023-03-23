@@ -4,4 +4,17 @@
   "bookingReference": "ABC0866035",
   "technicalControlNumber": "BKI0351543"
 }
+"event":{
+  "eventId": "b64180ae3f9f5a92ef6aed8b319e549936d909c4"
+}
+"update":{
+  "electronicCustomerReference": "ABCDEF-1234R5",
+  "bookingReference": "ABC0866035",
+  "technicalControlNumber": "BKI0351543"
+}
+"cancel":{
+  "electronicCustomerReference": "ABCDEF-1234R5",
+  "bookingReference": "ABC0866035",
+  "technicalControlNumber": "BKI0351543"
+}
 }
